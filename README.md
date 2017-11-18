@@ -2,7 +2,7 @@
 
 
 ## Requirements
-* Must have rooted android Find Root Walkthough (here)[https://gist.github.com/BaReinhard/0bd78338143c665a9242c66c7eb78171]
+* Must have rooted android Find Root Walkthough [here](https://gist.github.com/BaReinhard/0bd78338143c665a9242c66c7eb78171)
 * Must have bootanimation.zip or shutanimation.zip (respectively) in /storage/sdcard0/Download in order for the scripts to write to system
 * Currently only tested on Rooted Blu R1 HD Android Device
 
