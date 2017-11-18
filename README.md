@@ -15,3 +15,25 @@
 
 ## NOTICE:
 I am not responsible for any damages that these scripts cause for your device! Use at your own risk!!!
+
+
+## Usage:
+**ADB Shell:**
+```
+# First create a Scripts Folder (cleaner and optional)
+su
+mkdir /storage/sdcard0/Scripts
+```
+**Computer Shell:**
+```
+git clone https://github.com/BaReinhard/Android-Root-Boot-Animation-Writer
+cd Android-Root-Boot-Animation-Writer
+./push_files.sh
+```
+
+**ADB Shell:**
+```
+su
+/system/bin/sh /storage/sdcard0/Scripts/boot_animation_mover.sh
+/system/bin/sh /storage/sdcard0/Scripts/shut_animation_mover.sh
+```
