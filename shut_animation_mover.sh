@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo "Mounting System as Read/Write"
 mount -o rw,remount -t yaffs2 /dev/block/mtdblock3 /system
 echo "Copying shutanimation to system"
