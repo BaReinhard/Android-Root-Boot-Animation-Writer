@@ -11,3 +11,7 @@
 * All tested functionality was done on Blu R1 HD 16GB / 2GB w/ Amazon Ads (Ads Removed)
 * Bootanimations created from Bhootie App on Google Play Store
 * Gif Uploads were created in Inkscape and Gimp
+
+
+## NOTICE:
+I am not responsible for any damages that these scripts cause for your device! Use at your own risk!!!
